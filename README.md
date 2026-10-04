@@ -13,6 +13,7 @@ games
 - touchstarved (ais)
 
 animanga
+- mushoku tensei (rudeus) **i am not happy about this please dont judge me**
 - pandora hearts (xbreak)
 - the summer hikaru died (yoshiki)
 - to your eternity (fushi)
